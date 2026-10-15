@@ -63,7 +63,7 @@ This section describes the hardware setup principles that apply to any board.
 ## __4. Software setup__
 
 To create a functional project, complete the following steps:
-- Select the appropriate IoC2 file based on the combination of NUCLEO and X-NUCLEO boards. For example, use c562re_iks01a3_lps22hh_i3c.ioc2 for NUCLEO-C562RE and X-NUCLEO-IKS01A3.
+- Select the appropriate IoC2 file based on the combination of NUCLEO and X-NUCLEO boards. For example, use c562re_iks01a3_lps22hh_datalog_i3c.ioc2 for NUCLEO-C562RE and X-NUCLEO-IKS01A3.
 - Open the IoC2 file with STM32CubeMX2.
 - Select the preferred toolchain and generate the source code.
 - Copy the main.c, main.h, example.c, and example.h files into the project folder of the generated code.

@@ -6,15 +6,15 @@ This example demonstrates how to use the LPS22HH part driver with STM32CubeMX2 o
 
 # Update history
 
-<label for="collapse-v-1-0-0" aria-hidden="true">**1.0.0 / 17-April-2026**</label>
+<label for="collapse-v-1-0-1" aria-hidden="true">**1.0.1 / 14-October-2026**</label>
 <div>
 
 
 ## Main changes
 
-### First release
+### Patch release
 
-Initial release of the lps22hh_datalog_i3c example for STM32CubeMX2.
+Update README file.
 
 ## Known limitations
 
